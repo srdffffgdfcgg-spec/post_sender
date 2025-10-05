@@ -36,7 +36,7 @@ sudo apt update && sudo apt install python3 python3-pip -y
 2. Завантажте скрипт
 bash
 # Клонуйте репозиторій або завантажте файл вручну
-git clone https://github.com/yourusername/gmail-python-client.git
+git clone 
 cd gmail-python-client
 3. Налаштуйте Gmail акаунт
 🔐 Отримайте App Password (Пароль додатка):
